@@ -51,3 +51,27 @@ console.log("17 x 9 =", 17 * 9);
 console.log("17 x 10 =", 17 * 10);
 
 //
+
+let a = 55;
+
+let b = 20;
+
+// a or b value
+
+console.log("a = 4 b = 9");
+
+console.log("a x b =", a * b);
+
+console.log("++b =", ++b);
+
+console.log("a - b =", a - b);
+
+console.log("a / b =", a / b);
+
+console.log("17", -2 * 2 + 9);
+
+console.log("a = b", -2 * 4 / 2);
+
+console.log("a = b", 2 + 9 * 9);
+
+//
