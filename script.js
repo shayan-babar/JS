@@ -27,3 +27,27 @@ console.log(`Hobby:`, Hobby);
 }*/
 
 //
+
+//       Table of 17         //
+
+console.log("17 x 1 =", 17 * 1);
+
+console.log("17 x 2 =", 17 * 2);
+
+console.log("17 x 3 =", 17 * 3);
+
+console.log("17 x 4 =", 17 * 4);
+
+console.log("17 x 5 =", 17 * 5);
+
+console.log("17 x 6 =", 17 * 6);
+
+console.log("17 x 7 =", 17 * 7);
+
+console.log("17 x 8 =", 17 * 8);
+
+console.log("17 x 9 =", 17 * 9);
+
+console.log("17 x 10 =", 17 * 10);
+
+//
