@@ -75,3 +75,27 @@ console.log("a = b", -2 * 4 / 2);
 console.log("a = b", 2 + 9 * 9);
 
 //
+
+//Number
+
+let Number1 = 88;
+
+let Number2 = 69;
+
+let Number3 = 37;
+
+let Number4 = 48;
+
+let Number5 = 94;
+
+console.log(Number4 + Number3);
+
+console.log(Number3 === 37);
+
+console.log(Number5 * Number1);
+
+console.log(Number3 / Number5);
+
+console.log(Number4,48);
+
+//
