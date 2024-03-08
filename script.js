@@ -153,3 +153,28 @@ console.log(b--);
 console.log(b);
 console.log(a--);
 console.log(a);
+
+//Assignment Operator
+
+let p = 79
+let k = 92
+
+console.log("p = p + 1");
+p += 1
+console.log(p);
+
+console.log("k = k - 20");
+k -= 20
+console.log(k);
+
+console.log('p = p * 5');
+p *= 5
+console.log(p);
+
+console.log("k = k / 9");
+k /= 9
+console.log(k);
+
+console.log("p = p % 9");
+p %= 9
+console.log(p);
