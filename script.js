@@ -130,3 +130,26 @@ console.log(3 ** 3);
 console.log(x ** y);
 console.log(9 ** 2);
 console.log(4 ** 5);
+
+//Increment
+
+let s = 39
+let g = 27
+
+console.log(s++);
+console.log(g++);
+console.log(s);
+console.log(++s);
+console.log(++s);
+
+//Decrement
+
+let a = 67
+let b = 31
+
+console.log(--a);
+console.log(--b);
+console.log(b--);
+console.log(b);
+console.log(a--);
+console.log(a);
