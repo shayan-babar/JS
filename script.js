@@ -99,3 +99,21 @@ console.log(Number3 / Number5);
 console.log(Number4,48);
 
 //
+
+/*( Arithmetic Operators +,-,/,* )
+*/
+
+//{Modulus
+//Exponention
+//Increment
+//Decrement}
+
+let x = 39
+let y = 27
+
+// +,-,*,/
+console.log(x - y);
+console.log(y * x);
+console.log(x / 99);
+console.log(y + "69");
+console.log(x - y * y / x);
