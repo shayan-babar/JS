@@ -123,3 +123,10 @@ console.log(x % y);
 console.log(y % x);
 console.log(x % 6.9);
 console.log(7.8 % 3.6);
+
+//Exponentiation
+console.log(x ** 2);
+console.log(3 ** 3);
+console.log(x ** y);
+console.log(9 ** 2);
+console.log(4 ** 5);
