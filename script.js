@@ -117,3 +117,9 @@ console.log(y * x);
 console.log(x / 99);
 console.log(y + "69");
 console.log(x - y * y / x);
+
+//Modulus
+console.log(x % y);
+console.log(y % x);
+console.log(x % 6.9);
+console.log(7.8 % 3.6);
