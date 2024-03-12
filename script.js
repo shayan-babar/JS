@@ -178,3 +178,19 @@ console.log(k);
 console.log("p = p % 9");
 p %= 9
 console.log(p);
+
+//
+
+let X = 39 + 2 * 6 / 1
+let Y = 86 - 30 * 3 / 7
+
+//Comparison Operators
+
+console.log("X == Y", X == Y);
+console.log("X != Y", X != Y);
+console.log("X >= Y", X >= Y);
+console.log("X <= Y", X <= Y);
+console.log("51" == X);
+console.log("17" == 17);
+console.log("40" === 40);
+console.log("18" != 17);
