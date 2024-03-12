@@ -194,3 +194,25 @@ console.log("51" == X);
 console.log("17" == 17);
 console.log("40" === 40);
 console.log("18" != 17);
+//
+
+//Logical Operators
+
+let a1 = 9
+let b2 = 17
+let cond1 = a1 == a1
+let cond2 = a1 >= a1
+
+//Logical And &&
+console.log(a1 == a1 && a1 >= a1);
+console.log(cond1 && cond2);
+console.log(1 + 2 - 7 == -4 && -4 >= 1 + 2 - 7);
+console.log(b2 == b2 && "b2" == 'b2');
+console.log(59 != 56 && 78 >= 20);
+//
+
+//Logical OR ||
+console.log(17 == 17 || 17 < 9);
+console.log(cond1 || "19=2");
+console.log(-22 == '-22' || "85" > 86);
+//
