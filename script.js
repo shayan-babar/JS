@@ -216,3 +216,29 @@ console.log(17 == 17 || 17 < 9);
 console.log(cond1 || "19=2");
 console.log(-22 == '-22' || "85" > 86);
 //
+
+//Conditional Statement
+
+let weather = 40
+let score = 68
+//If Statement
+if (weather > 20) {
+    console.log('Weather very hot');
+}
+
+if (score > 50) {
+    console.log("Not Out");
+}
+
+if (50 > 20) {
+    console.log("50 greater then 20");
+}
+
+if (20 < 50) {
+    console.log("20 less then 50");
+}
+
+if (score < 69) {
+    console.log("Out");
+}
+//
