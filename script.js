@@ -38,3 +38,7 @@ let book = "A smarter way to learn JavaScript";
 //display in the alert box
 alert("I am currently reading the book: '" + book + "'");
 //
+
+//Question # 8:
+document.write("Yah! I can write HTML content through JavaScript")
+//
