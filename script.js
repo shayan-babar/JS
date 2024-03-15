@@ -43,7 +43,7 @@ alert("I am currently reading the book: '" + book + "'");
 document.write("Yah! I can write HTML content through JavaScript")
 //
 
-/Question # 9:
+//Question # 9:
 let specialstring = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 // Display the string in an alert box
 alert(specialstring);
