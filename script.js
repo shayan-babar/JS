@@ -26,6 +26,10 @@ Mybiodata += "Hobbies: " + Hobbies + "\n";
 alert(Mybiodata);
 //
 
+//Question # 5:
+alert("pizza\npizz\npiz\npi\np");
+//
+
 //Question # 6:
 let email = "shayanbabar128@gmail.com";
 let emailaddress = "My email address is: '" + email + "'";
