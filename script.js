@@ -64,7 +64,7 @@ let variable1, variable2, variable3;
 
 //Question # 2
 //legal variable
-let shayan;
+/*let shayan;
 let shayan17;
 let $hayan;
 let _shayan;
@@ -76,5 +76,5 @@ let sha yan
 let 17shayan
 let "shayan"
 let @shayan
-let (shayan)
+let (shayan)*/
 //
