@@ -55,6 +55,3 @@ alert(specialstring);
 // Display the string in the browser
 document.write(specialstring);
 //
-
-//
-//
