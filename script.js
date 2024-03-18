@@ -55,3 +55,26 @@ alert(specialstring);
 // Display the string in the browser
 document.write(specialstring);
 //
+
+//Chapter 4
+
+//Question # 1
+let variable1, variable2, variable3;
+//
+
+//Question # 2
+//legal variable
+let shayan;
+let shayan17;
+let $hayan;
+let _shayan;
+let sha17yan;
+//
+
+//illegal variable
+let sha yan
+let 17shayan
+let "shayan"
+let @shayan
+let (shayan)
+//
