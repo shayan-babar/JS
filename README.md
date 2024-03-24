@@ -1,4 +1,4 @@
 <h1 align="center">Learning-JavaScript-3</h1>
 <p align="center">
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="Image" style="width: 400px; display: block; margin: 0 auto;" />
+  <img src="https://www.disenowebwordpress.com/wp-content/uploads/2018/08/animationJS.gif" alt="Image" style="width: 440px; display: block; margin: 0 auto;" />
 </p>
