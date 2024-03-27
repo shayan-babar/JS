@@ -134,3 +134,8 @@ for (let i=1 ; i<=10 ; i++) {
     document.write(table + " " + "X" + " " + i + " " + "=" + " " + table*i + "<br></br>");
 }
 //
+
+//Question # 6:
+let temperature = "NNC";
+document.write("25C&#176 is 77F&#176; <br/> 70&#176;F is 21.11111111111111C&#176",'<br></br>');
+//
