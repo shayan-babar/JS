@@ -44,7 +44,7 @@ alert("I am currently reading the book: '" + book + "'");
 //
 
 //Question # 8:
-document.write("Yah! I can write HTML content through JavaScript<br>")
+document.write("Yah! I can write HTML content through JavaScript","<br></br>")
 //
 
 //Question # 9:
@@ -124,13 +124,13 @@ document.write("The reminder is: ", myNumber%5,'<br></br>');
 //Question # 4:
 let ticket = 600;
 ticket *= 5 ;
-document.write("Total cost to buy 5 tickets to a movie is " + ticket + "PKR" + "<br>"); 
+document.write("Total cost to buy 5 tickets to a movie is " + ticket + "PKR" + "<br></br>"); 
 //
 
 //Question # 5:
 let table = 4;
 
 for (let i=1 ; i<=10 ; i++) {
-    document.write(table + " " + "X" + " " + i + " " + "=" + " " + table*i + "<br>");
+    document.write(table + " " + "X" + " " + i + " " + "=" + " " + table*i + "<br></br>");
 }
 //
