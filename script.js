@@ -86,3 +86,26 @@ document.write("<p>Variables must begin with a letter,$ or_ . For example : $nam
 document.write("<p></p>Variable names are case-sensitive</p>");
 document.write("<p></p>Variable names should not be JavaScript keywords</p>");
 //
+
+//Chapter 5
+
+//Question # 1:
+let num1 = 7
+let num2 = 4
+let plus = num1 + num2
+document.write('Sum of 4 and 7 is 11');
+//
+
+//Question # 2:
+let subtraction = num1 - num2
+document.write('Minus of  7 and 4 is 3');
+
+let multiplication = num1 * num2
+document.write('Multiplication of  7 and 4 is 28');
+
+let division = num1 / num2
+document.write('Division of 7 and 4 is 1.75');
+
+let modulus = num1 % num2
+document.write('Modulus of 7 and 4 is 0');
+//
