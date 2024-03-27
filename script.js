@@ -48,7 +48,7 @@ document.write("Yah! I can write HTML content through JavaScript<br>")
 //
 
 //Question # 9:
-let specialstring = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬"<br>;
+let specialstring = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 // Display the string in an alert box
 alert(specialstring);
 
