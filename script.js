@@ -109,3 +109,17 @@ document.write('Division of 7 and 4 is 1.75<br>');
 let modulus = num1 % num2
 document.write('Modulus of 7 and 4 is 0<br>');
 //
+
+//Question # 4:
+let ticket = 600;
+ticket *= 5 ;
+document.write("Total cost to buy 5 tickets to a movie is " + ticket + "PKR" + "<br>"); 
+//
+
+//Question # 5:
+let table = 4;
+
+for (let i=1 ; i<=10 ; i++) {
+    document.write(table + " " + "X" + " " + i + " " + "=" + " " + table*i + "<br>");
+}
+//
