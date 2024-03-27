@@ -172,3 +172,26 @@ let b = 1;
 document.write("a is = " + a + "<br/>");
 document.write("b is = " + b + "<br/>");
 //
+
+//Question # 4,5: 
+let table = document.querySelector("#table");
+let print_table = document.querySelector("#table_print");
+let button2 = document.querySelector("#button2");
+
+button2.addEventListener("click", () => {
+  let user_table = table.value;
+  for (let i = 1; i <= 10; i++) {
+    print_table.innerHTML +=
+      user_table +
+      " " +
+      "x" +
+      " " +
+      i +
+      " " +
+      "=" +
+      " " +
+      user_table * i +
+      "<br/>";
+  }
+});
+//
