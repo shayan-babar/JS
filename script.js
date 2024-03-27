@@ -93,21 +93,32 @@ document.write("<p></p>Variable names should not be JavaScript keywords</p>");
 let num1 = 7
 let num2 = 4
 let plus = num1 + num2
-document.write('Sum of 4 and 7 is 11<br>');
+document.write('Sum of 4 and 7 is 11','<br></br>');
 //
 
 //Question # 2:
 let subtraction = num1 - num2
-document.write('Minus of  7 and 4 is 3<r>');
+document.write('Minus of  7 and 4 is 3','<br></br>');
 
 let multiplication = num1 * num2
-document.write('Multiplication of  7 and 4 is 28<br>');
+document.write('Multiplication of  7 and 4 is 28','<br></br>');
 
 let division = num1 / num2
-document.write('Division of 7 and 4 is 1.75<br>');
+document.write('Division of 7 and 4 is 1.75','<br></br>');
 
 let modulus = num1 % num2
-document.write('Modulus of 7 and 4 is 0<br>');
+document.write('Modulus of 7 and 4 is 0','<br></br>');
+//
+
+//Question # 3:
+let myNumber;
+document.write('Value after of Variable decleration is undefined', '<br></br>');
+myNumber = 5;
+document.write('Initial value is: 5', '<br></br>');
+document.write('Value after increment is: ',++myNumber, '<br></br>');
+document.write("Value after addition is: ", myNumber+7,'<br></br>');
+document.write('Value after decrement is: ',--myNumber, '<br></br>');
+document.write("The reminder is: ", myNumber%5,'<br></br>');
 //
 
 //Question # 4:
