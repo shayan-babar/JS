@@ -44,11 +44,11 @@ alert("I am currently reading the book: '" + book + "'");
 //
 
 //Question # 8:
-document.write("Yah! I can write HTML content through JavaScript")
+document.write("Yah! I can write HTML content through JavaScript<br>")
 //
 
 //Question # 9:
-let specialstring = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+let specialstring = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬"<br>;
 // Display the string in an alert box
 alert(specialstring);
 
@@ -93,19 +93,19 @@ document.write("<p></p>Variable names should not be JavaScript keywords</p>");
 let num1 = 7
 let num2 = 4
 let plus = num1 + num2
-document.write('Sum of 4 and 7 is 11');
+document.write('Sum of 4 and 7 is 11<br>');
 //
 
 //Question # 2:
 let subtraction = num1 - num2
-document.write('Minus of  7 and 4 is 3');
+document.write('Minus of  7 and 4 is 3<r>');
 
 let multiplication = num1 * num2
-document.write('Multiplication of  7 and 4 is 28');
+document.write('Multiplication of  7 and 4 is 28<br>');
 
 let division = num1 / num2
-document.write('Division of 7 and 4 is 1.75');
+document.write('Division of 7 and 4 is 1.75<br>');
 
 let modulus = num1 % num2
-document.write('Modulus of 7 and 4 is 0');
+document.write('Modulus of 7 and 4 is 0<br>');
 //
