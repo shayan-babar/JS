@@ -242,3 +242,11 @@ if (score < 69) {
     console.log("Out");
 }
 //
+
+//Array or loop
+let Cities = ['Karachi', 'Lahore', 'Islamabad', 'Peshawar', 'Quetta', 'Faisalabad'];
+console.log('Lenght', Cities.length);
+for (let i = 0; i < Cities.length; i++) {
+    console.log(Cities[i]);
+}
+//
