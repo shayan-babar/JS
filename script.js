@@ -173,7 +173,7 @@ document.write("a is = " + a + "<br/>");
 document.write("b is = " + b + "<br/>");
 //
 
-//Question # 4,5: 
+/*Question # 4,5: 
 let table = document.querySelector("#table");
 let print_table = document.querySelector("#table_print");
 let button2 = document.querySelector("#button2");
@@ -194,4 +194,4 @@ button2.addEventListener("click", () => {
       "<br/>";
   }
 });
-//
+*/
