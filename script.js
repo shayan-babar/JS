@@ -277,3 +277,22 @@ Cities.unshift('Sialkot')
 Cities.shift()
 
 //
+
+//
+let Pakistan = true;
+let India = false;
+let Palestine = true;
+let America = false;
+
+if (Palestine && Pakistan) {
+    console.log('We are stand with Palestine')
+} else {
+    console.log('We are not human')
+};
+
+if (India === America) {
+    console.log('Israel is mf');
+} else {
+    console.log('Israel is also mf😂');
+}
+//
