@@ -296,3 +296,22 @@ if (India === America) {
     console.log('Israel is also mf😂');
 }
 //
+
+//
+let age = 18
+let since = 2005
+let month = 'August'
+
+console.log(age == '18');
+console.log(age === '18');
+console.log(age != 17);
+console.log(age != age);
+console.log(since + age - age);
+
+console.log(age++);
+if (age > 18) {
+    console.log('my age');
+} else {
+    console.log("i'm 19?");
+}
+//
