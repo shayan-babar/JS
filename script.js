@@ -312,6 +312,6 @@ console.log(age++);
 if (age > 18) {
     console.log('my age');
 } else {
-    console.log("i'm 21?");
+    console.log("i'm 22?");
 }
 //
