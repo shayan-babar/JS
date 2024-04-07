@@ -238,7 +238,7 @@ if (20 < 50) {
     console.log("20 less then 50");
 }
 
-if (score < 71) {
+if (score < 72) {
     console.log("Out");
 }
 //
