@@ -400,3 +400,24 @@ for (let i = 0; i < 3; i++) {
     }
 }
 //
+
+//
+
+let matrix = [
+    [7, 3, 6],
+    [2, 4, 9],
+    [3, 7, 5],
+]
+
+let matrix2 = [
+    [3, 7, 5],
+    [2, 4, 9],
+    [7, 3, 6],
+]
+
+for (let i = 0; i < 3; i++) {
+    for (let j = 0; j < 3; j++) {
+        console.log(matrix[i][j] * matrix2[i][j]);
+    }
+}
+//
