@@ -354,3 +354,28 @@ for (let i = 0; i < 3; i++) {
     }
 }
 //
+
+//Print exact matrix with help of array and loop
+
+let matrix1 = [
+    [5, 2, 3],
+    [7, 2, 3],
+    [1, 0, 5],
+];
+let matrix2 = [
+    [5, 2, 3],
+    [7, 6, 3],
+    [7, 9, 8],
+];
+
+let result = []
+
+for (let i = 0; i < 3; i++) {
+    result[i] = [];
+    for (let j = 0; j < 3; j++) {
+        let sumofmatrix = matrix1[i][j] + matrix2[i][j];
+        result[i].push(sumofmatrix)
+    }
+}
+console.log(result);
+//
