@@ -421,3 +421,19 @@ for (let i = 0; i < 3; i++) {
     }
 }
 //
+
+//
+
+let matrixx = [
+    [10, 3, 5, 7, 3, 4],
+    [2, 1, 4, 6, 8, 9, 2, 1, 3, 4],
+    [18, 29, 38, 49, 59, 2, 44, 85, 37, 64],
+    [3, 5, 6],
+];
+
+for (let i = 0; i < matrixx.length; i++) {
+    for (let j = 0; j < matrixx[i].length; j++) {
+        console.log(matrixx[i][j]);
+    }
+}
+//
