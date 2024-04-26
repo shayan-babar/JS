@@ -437,3 +437,12 @@ for (let i = 0; i < matrixx.length; i++) {
     }
 }
 //
+
+//
+
+let myArray = ['Pakistan', 'India', 'Bangladesh', 'Srilanka', 'Nepal'];
+
+for (let i = 0; i < myArray.length; i++) {
+    console.log(myArray[i]);
+};
+//
