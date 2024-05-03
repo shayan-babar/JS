@@ -7,7 +7,7 @@ let y = 27
 console.log(x - y);
 console.log(y * x);
 console.log(x / 99);
-console.log(y + "69");
+console.log(y + "70");
 console.log(x - y * y / x);
 
 //Modulus
