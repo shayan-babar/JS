@@ -1,6 +1,6 @@
 //Arithmetic Operators
 
-let x = 39
+let x = 35
 let y = 27
 
 // +,-,*,/
