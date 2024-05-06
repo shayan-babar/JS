@@ -25,7 +25,7 @@ console.log(5 ** 5);
 
 //Increment
 let s = 30
-let g = 27
+let g = 20
 console.log(s++);
 console.log(g++);
 console.log(s);
