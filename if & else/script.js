@@ -5,7 +5,7 @@ if (weather > 20) {
     console.log('Weather very hot');
 }
 
-if (score > 50) {
+if (score > 55) {
     console.log("Not Out");
 }
 
