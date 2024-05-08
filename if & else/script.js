@@ -13,8 +13,8 @@ if (50 > 20) {
     console.log("50 greater then 20");
 }
 
-if (20 < 45) {
-    console.log("20 less then 50");
+if (25 < 45) {
+    console.log("25 less then 50");
 }
 
 if (score < 70) {
