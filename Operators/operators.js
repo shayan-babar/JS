@@ -1,7 +1,7 @@
 //Arithmetic Operators
 
 let x = 10
-let y = 25
+let y = 15
 
 // +,-,*,/
 console.log(x - y);
