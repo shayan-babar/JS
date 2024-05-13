@@ -1,4 +1,4 @@
-let weather = 30
+let weather = 32
 let score = 68
 //If Statement
 if (weather > 20) {
