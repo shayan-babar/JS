@@ -1,5 +1,5 @@
 let weather = 32
-let score = 68
+let score = 99
 //If Statement
 if (weather > 20) {
     console.log('Weather very hot');
