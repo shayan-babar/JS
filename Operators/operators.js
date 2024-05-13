@@ -80,7 +80,7 @@ console.log("X <= Y", X <= Y);
 console.log("51" == X);
 console.log("17" == 17);
 console.log("40" === 40);
-console.log("18" != 17);
+console.log("18" != 16);
 //
 
 //Logical Operators
