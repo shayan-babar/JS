@@ -220,7 +220,7 @@ console.log(-22 == '-22' || "85" > 86);
 //Conditional Statement
 
 let weather = 30
-let score = 68
+let score = 99
 //If Statement
 if (weather > 20) {
     console.log('Weather very hot');
