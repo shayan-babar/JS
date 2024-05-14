@@ -198,7 +198,7 @@ console.log("18" != 17);
 
 //Logical Operators
 
-let a1 = 9
+let a1 = 12
 let b2 = 17
 let cond1 = a1 == a1
 let cond2 = a1 >= a1
