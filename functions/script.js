@@ -7,9 +7,18 @@ function myFunction(p1, p2) {
 }
 //
 
+//
 function multiply(a, b) {
     return a * Number(b);
 }
 
 console.log(multiply("2", "3"));
+//
+
+//
+function average(a, b) {
+    return a + b / 2;
+}
+
+console.log(average(2, 1));
 //
