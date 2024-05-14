@@ -133,7 +133,7 @@ console.log(4 ** 5);
 
 //Increment
 
-let s = 39
+let s = 20
 let g = 27
 
 console.log(s++);
