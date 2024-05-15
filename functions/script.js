@@ -22,3 +22,11 @@ function average(a, b) {
 
 console.log(average(2, 1));
 //
+
+//
+function greet(name) {
+    console.log('Hello, ' + name + '!');
+
+}
+greet('shayan');
+//
