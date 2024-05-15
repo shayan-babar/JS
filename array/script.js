@@ -1,3 +1,8 @@
+let Names = ['shayan', 'hassan', 'ahmed', 'waseem', 'basheer'];
+console.log(Names.slice(0, 3));
+console.log(Names.slice(2, 4));
+//
+
 let Cities = ['Karachi', 'Lahore', 'Islamabad', 'Peshawar', 'Quetta', 'Faisalabad'];
 
 //Array methods
