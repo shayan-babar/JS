@@ -1,6 +1,8 @@
 let Names = ['shayan', 'hassan', 'ahmed', 'waseem', 'basheer'];
 console.log(Names.slice(0, 3));
 console.log(Names.slice(2, 4));
+console.log(Names.splice(2, 3, 4, 'hassan raza'));
+console.log(Names);
 //
 
 let Cities = ['Karachi', 'Lahore', 'Islamabad', 'Peshawar', 'Quetta', 'Faisalabad'];
