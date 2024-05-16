@@ -1,5 +1,5 @@
-function nums(f4, f7) {
-    return f4 * f7;
+function nums(f4, x7) {
+    return f4 * x7;
 }
 
 function myFunction(p1, p2) {
