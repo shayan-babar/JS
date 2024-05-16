@@ -2,8 +2,8 @@ function nums(f4, x7) {
     return f4 * x7;
 }
 
-function myFunction(p1, p2) {
-    return p1 * p2;
+function myFunction(p1, t2) {
+    return p1 * t2;
 }
 //
 
