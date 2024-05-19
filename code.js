@@ -167,7 +167,7 @@ console.log("k = k - 10");
 k -= 20
 console.log(k);
 
-console.log('p = p * 5');
+console.log('p = p * 7');
 p *= 5
 console.log(p);
 
