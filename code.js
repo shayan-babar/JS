@@ -78,7 +78,7 @@ console.log("a = b", 2 + 9 * 9);
 
 //Number
 
-let Number1 = 88;
+let Number1 = 17;
 
 let Number2 = 69;
 
