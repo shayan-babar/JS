@@ -163,7 +163,7 @@ console.log("p = p + 1");
 p += 1
 console.log(p);
 
-console.log("k = k - 20");
+console.log("k = k - 10");
 k -= 20
 console.log(k);
 
