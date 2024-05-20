@@ -80,9 +80,9 @@ console.log("a = b", 2 + 9 * 9);
 
 let Number1 = 17;
 
-let Number2 = 69;
+let Number2 = 9;
 
-let Number3 = 37;
+let Number3 = 15;
 
 let Number4 = 48;
 
