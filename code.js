@@ -175,7 +175,7 @@ console.log("k = k / 9");
 k /= 9
 console.log(k);
 
-console.log("p = p % 9");
+console.log("p = p % 5");
 p %= 9
 console.log(p);
 
