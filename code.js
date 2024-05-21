@@ -100,9 +100,6 @@ console.log(Number4,48);
 
 //
 
-/*( Arithmetic Operators +,-,/,* )
-*/
-
 //{Modulus
 //Exponention
 //Increment
