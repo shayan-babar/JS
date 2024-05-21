@@ -1,4 +1,4 @@
-my//MySelf 
+//MySelf 
 
 let myName = "Shayan"
 
