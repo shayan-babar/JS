@@ -96,7 +96,7 @@ console.log(Number4,48);
 //Increment
 //Decrement}
 
-let x = 39
+let x = 20
 let y = 27
 
 // +,-,*,/
