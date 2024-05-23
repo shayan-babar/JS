@@ -433,11 +433,4 @@ let myArray = ['Pakistan', 'India', 'Bangladesh', 'Srilanka', 'Nepal'];
 for (let i = 0; i < myArray.length; i++) {
     console.log(myArray[i]);
 };
-//
-
-//
-
-let myDate = new Date(2005, 7, 17);
-console.log(myDate);
-console.log(new Date);
-//
+//
