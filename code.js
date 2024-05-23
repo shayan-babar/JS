@@ -43,7 +43,7 @@ console.log("17 x 10 =", 17 * 10);
 
 //
 
-let a = 55;
+let a = 13;
 
 let b = 20;
 
