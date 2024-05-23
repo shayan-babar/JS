@@ -75,9 +75,9 @@ let Number2 = 9;
 
 let Number3 = 15;
 
-let Number4 = 48;
+let Number4 = 4;
 
-let Number5 = 94;
+let Number5 = 8;
 
 console.log(Number4 + Number3);
 
