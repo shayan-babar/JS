@@ -18,15 +18,6 @@ console.log(`Hobby:`, Hobby);
 
 //
 
-/*let MySelf = {
-    Name: "Shayan",
-    Age: "18",
-    Passion: "Programmaing",
-    Qualification: "Intermediate in CS",
-    Hobby: "Coding & Cricket",
-}*/
-
-//
 
 //       Table of 17         //
 
