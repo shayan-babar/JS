@@ -117,7 +117,7 @@ console.log(x ** 10);
 console.log(3 ** 3);
 console.log(x ** y);
 console.log(9 ** 2);
-console.log(4 ** 5);
+console.log(4 ** 4);
 
 //Increment
 
