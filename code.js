@@ -102,7 +102,7 @@ let y = 27
 // +,-,*,/
 console.log(x - y);
 console.log(y * x);
-console.log(x / 10);
+console.log(x / 6);
 console.log(y + "69");
 console.log(x - y * y / x);
 
