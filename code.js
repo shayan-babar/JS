@@ -170,7 +170,7 @@ console.log(p);
 //
 
 let X = 44 + 2 * 6 / 1
-let Y = 86 - 30 * 3 / 7
+let Y = 80 - 40 * 3 / 9
 
 //Comparison Operators
 
