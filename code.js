@@ -69,11 +69,11 @@ console.log("a = b", 2 + 9 * 9);
 
 //Number
 
-let Number1 = 17;
+let Number1 = 6;
 
 let Number2 = 9;
 
-let Number3 = 15;
+let Number3 = 13;
 
 let Number4 = 4;
 
