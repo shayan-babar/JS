@@ -132,7 +132,7 @@ console.log(++s);
 
 //Decrement
 
-let a = 50
+let a = 25
 let b = 31
 
 console.log(--a);
