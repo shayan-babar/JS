@@ -121,7 +121,7 @@ console.log(4 ** 4);
 
 //Increment
 
-let s = 15
+let s = 28
 let g = 20
 
 console.log(s++);
