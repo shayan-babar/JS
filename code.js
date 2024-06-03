@@ -144,8 +144,8 @@ console.log(a);
 
 //Assignment Operator
 
-let p = 79
-let k = 92
+let p = 66
+let k = 56
 
 console.log("p = p + 1");
 p += 1
